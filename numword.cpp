@@ -7,10 +7,6 @@
 //
 
 #include "numword.hpp"
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdarg.h>
-#include <string>
 
 using namespace bw;
 

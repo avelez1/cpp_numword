@@ -12,9 +12,6 @@
 #include <stdio.h>
 #include <string>
 #include <cmath>
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdarg.h>
 #endif /* numword_hpp */
 
 namespace bw {
