@@ -40,7 +40,7 @@ namespace bw {
     
     
   public:
-    std::string get_hundreds(uint64_t n);
+    void get_hundreds(uint64_t n);
     const char * words(uint64_t n);
     void appendspace();
     void appendhyphen();
